@@ -1,0 +1,70 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "9e0328127dfb801cefe8ac53a13c0c90a7770448",
+          "version": "5.4.0"
+        }
+      },
+      {
+        "package": "CZNetworking",
+        "repositoryURL": "https://github.com/geekaurora/CZNetworking.git",
+        "state": {
+          "branch": null,
+          "revision": "f1321d4ba96cbbf010d75d3e38251ac8415d5e26",
+          "version": "3.2.8"
+        }
+      },
+      {
+        "package": "CZTestUtils",
+        "repositoryURL": "https://github.com/geekaurora/CZTestUtils.git",
+        "state": {
+          "branch": null,
+          "revision": "5116e9c704e6926aaca52613ce8434321b62efce",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "CZUtils",
+        "repositoryURL": "https://github.com/geekaurora/CZUtils.git",
+        "state": {
+          "branch": null,
+          "revision": "11071796592046ae1f50929484fe77dfa3a224f5",
+          "version": "3.4.2"
+        }
+      },
+      {
+        "package": "CZWebImage",
+        "repositoryURL": "https://github.com/geekaurora/CZWebImage.git",
+        "state": {
+          "branch": null,
+          "revision": "530974c3ad0bba3cc615ca187ca1e9b79e2c7f48",
+          "version": "3.1.1"
+        }
+      },
+      {
+        "package": "SwiftUIKit",
+        "repositoryURL": "https://github.com/geekaurora/SwiftUIKit.git",
+        "state": {
+          "branch": null,
+          "revision": "3d46476030aa29df3919cb26a273b489d0277a1d",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "SwiftWebImage",
+        "repositoryURL": "https://github.com/geekaurora/SwiftWebImage.git",
+        "state": {
+          "branch": null,
+          "revision": "a033729fc4f737bd2ce08a00931c200c73aa9929",
+          "version": "3.3.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
